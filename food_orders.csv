@@ -1,0 +1,61 @@
+Order_ID,Customer,City,Item,Category,Price,Qty,Delivery_Mins,Rating,Payment_Mode
+5001,Aarav,Delhi,Paneer Butter Masala,North Indian,260,4,29,4.1,UPI
+5002,Priya,Noida,Dal Makhani Combo,North Indian,220,4,41,3.3,Card
+5003,Rohan,Ghaziabad,Chole Bhature,North Indian,140,4,27,4.7,Cash
+5004,Sneha,Gurugram,Cheese Burst Pizza,Fast Food,320,1,58,3.5,UPI
+5005,Kabir,Lucknow,Veg Burger Meal,Fast Food,180,1,18,4.8,Card
+5006,Ananya,Delhi,Masala Dosa,South Indian,150,1,,3.7,Cash
+5007,Vikas,Noida,Idli Sambar,South Indian,110,2,37,4.6,UPI
+5008,Neha,Ghaziabad,Hakka Noodles,Chinese,190,1,47,4.2,Card
+5009,Dev,Gurugram,Veg Manchurian,Chinese,210,3,26,4.5,Cash
+5010,Pooja,Lucknow,Cold Coffee,Beverages,130,3,28,4.4,UPI
+5011,Arjun,Delhi,Paneer Butter Masala,North Indian,260,4,41,3.1,Card
+5012,Meera,Noida,Dal Makhani Combo,North Indian,220,4,27,3.4,Cash
+5013,Sahil,Ghaziabad,Chole Bhature,North Indian,140,3,54,,UPI
+5014,Karan,Gurugram,Cheese Burst Pizza,Fast Food,320,4,53,4.2,Card
+5015,Riya,Lucknow,Veg Burger Meal,Fast Food,180,4,28,4.1,Cash
+5016,Aditya,Delhi,Masala Dosa,South Indian,150,4,56,4.6,UPI
+5017,Tanvi,Noida,Idli Sambar,South Indian,110,1,36,3.7,Card
+5018,Harsh,Ghaziabad,Hakka Noodles,Chinese,190,4,33,3.7,Cash
+5019,Simran,Gurugram,Veg Manchurian,Chinese,210,1,60,4.7,UPI
+5020,Nikhil,Lucknow,Cold Coffee,Beverages,130,1,29,4.8,Card
+5021,Ishita,Delhi,Paneer Butter Masala,North Indian,260,2,47,3.2,Cash
+5022,Manish,Noida,Dal Makhani Combo,North Indian,220,1,37,4.7,UPI
+5023,Divya,Ghaziabad,Chole Bhature,North Indian,140,3,,3.6,Card
+5024,Yash,Gurugram,Cheese Burst Pizza,Fast Food,320,1,57,3.3,Cash
+5025,Kriti,Lucknow,Veg Burger Meal,Fast Food,180,1,40,4.0,UPI
+5026,Gaurav,Delhi,Masala Dosa,South Indian,150,4,41,4.0,Card
+5027,Shruti,Noida,Idli Sambar,South Indian,110,3,55,3.4,Cash
+5028,Pranav,Ghaziabad,Hakka Noodles,Chinese,190,2,20,3.5,UPI
+5029,Sakshi,Gurugram,Veg Manchurian,Chinese,210,4,46,4.4,Card
+5030,Abhishek,Lucknow,Cold Coffee,Beverages,130,3,48,3.9,Cash
+5031,Aarav,Delhi,Paneer Butter Masala,North Indian,260,4,37,4.9,UPI
+5032,Priya,Noida,Dal Makhani Combo,North Indian,220,3,23,3.9,Card
+5033,Rohan,Ghaziabad,Chole Bhature,North Indian,140,2,24,4.0,Cash
+5034,Sneha,Gurugram,Cheese Burst Pizza,Fast Food,320,4,55,4.2,UPI
+5035,Kabir,Lucknow,Veg Burger Meal,Fast Food,180,2,22,4.6,Card
+5036,Ananya,Delhi,Masala Dosa,South Indian,150,4,33,5.0,Cash
+5037,Vikas,Noida,Idli Sambar,South Indian,110,3,31,4.3,UPI
+5038,Neha,Ghaziabad,Hakka Noodles,Chinese,190,3,55,,Card
+5039,Dev,Gurugram,Veg Manchurian,Chinese,210,3,47,3.4,Cash
+5040,Pooja,Lucknow,Cold Coffee,Beverages,130,3,39,4.7,UPI
+5041,Arjun,Delhi,Paneer Butter Masala,North Indian,260,4,48,3.9,Card
+5042,Meera,Noida,Dal Makhani Combo,North Indian,220,1,45,3.0,Cash
+5043,Sahil,Ghaziabad,Chole Bhature,North Indian,140,2,40,3.7,UPI
+5044,Karan,Gurugram,Cheese Burst Pizza,Fast Food,320,3,31,4.9,Card
+5045,Riya,Lucknow,Veg Burger Meal,Fast Food,180,1,32,3.8,Cash
+5046,Aditya,Delhi,Masala Dosa,South Indian,150,4,31,3.8,UPI
+5047,Tanvi,Noida,Idli Sambar,South Indian,110,1,38,4.4,Card
+5048,Harsh,Ghaziabad,Hakka Noodles,Chinese,190,1,47,3.7,Cash
+5049,Simran,Gurugram,Veg Manchurian,Chinese,210,4,58,3.5,UPI
+5050,Nikhil,Lucknow,Cold Coffee,Beverages,130,2,42,3.6,Card
+5051,Ishita,Delhi,Paneer Butter Masala,North Indian,260,3,27,3.3,Cash
+5052,Manish,Noida,Dal Makhani Combo,North Indian,220,4,61,3.7,UPI
+5053,Divya,Ghaziabad,Chole Bhature,North Indian,140,1,22,4.8,Card
+5054,Yash,Gurugram,Cheese Burst Pizza,Fast Food,320,3,32,4.2,Cash
+5055,Kriti,Lucknow,Veg Burger Meal,Fast Food,180,4,34,3.7,UPI
+5056,Gaurav,Delhi,Masala Dosa,South Indian,150,1,28,4.0,Card
+5057,Shruti,Noida,Idli Sambar,South Indian,110,1,61,4.2,Cash
+5058,Pranav,Ghaziabad,Hakka Noodles,Chinese,190,2,41,3.9,UPI
+5059,Sakshi,Gurugram,Veg Manchurian,Chinese,210,3,30,3.5,Card
+5060,Abhishek,Lucknow,Cold Coffee,Beverages,130,3,35,3.8,Cash
